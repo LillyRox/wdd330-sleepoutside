@@ -26,3 +26,7 @@ _BYU-Pathway Worldwide improves lives through access to spiritually based, onlin
 
 ### Production Deploy URL ###
 https://wdd300-sleepoutside.netlify.app/
+
+### W01 Individual Activity:  Add item to cart broken. ###
+
+![alt text](image.png)
