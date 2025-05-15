@@ -34,3 +34,7 @@ https://wdd300-sleepoutside.netlify.app/
 ### W02 W02 Team Activity: Dynamic Product Detail Page. ###
 
 ![alt text](image-1.png)
+
+### W02 Individual Activity: Dynamic Product List. ###
+![alt text](image-2.png)
+![alt text](image-3.png)
