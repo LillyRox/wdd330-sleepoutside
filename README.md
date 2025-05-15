@@ -30,3 +30,7 @@ https://wdd300-sleepoutside.netlify.app/
 ### W01 Individual Activity:  Add item to cart broken. ###
 
 ![alt text](image.png)
+
+### W02 W02 Team Activity: Dynamic Product Detail Page. ###
+
+![alt text](image-1.png)
